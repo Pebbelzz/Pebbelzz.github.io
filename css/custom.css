@@ -150,6 +150,23 @@ nav{
 	background-size: 250px 200px;
 }
 
+#sevenWork{
+	background-image: url(../images/crazyCatLadyHut.png);
+	background-size: 250px 200px;
+}
+
+#eightWork{
+	background-image: url(../images/bootstrap-wireframe.png);
+	background-size: 250px 200px;
+}
+
+#nineWork{
+	background-image: url(../images/signInDribble.png);
+	background-size: 250px 200px;
+}
+
+
+
 .show-title{
 	color: #FFFFFF;
 	background: black;
